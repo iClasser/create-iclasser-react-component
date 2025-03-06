@@ -1,6 +1,6 @@
 {
   "name": "create-iclasser-react-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to create a project from iClasser React LMS Components",
   "main": "bin/index.js",
   "type": "module",
