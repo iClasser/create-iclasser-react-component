@@ -1,0 +1,21 @@
+{
+  "name": "create-iclasser-react-component",
+  "version": "1.0.0",
+  "description": "CLI to create a project from iClasser React LMS Components",
+  "main": "bin/index.js",
+  "type": "module",
+  "bin": {
+    "create-iclasser-react-component": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["iclasser", "react", "component", "generator", "lms", "iclasser-react-component"],
+  "author": "hamed@iclasser.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "degit": "^2.8.4",
+    "prompts": "^2.4.2"
+  }
+}
